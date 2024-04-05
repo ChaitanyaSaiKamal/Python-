@@ -1,4 +1,4 @@
-This is a python software to unzip files.
+This is a python code to unzip files.
 
 To run, follow the below steps on you PC
 
